@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1.00246,0,0,1,-2.8143,25.407)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,5.59816,95.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">C<tspan x="16.366px 31.417px " y="0px 0px ">os</tspan>t</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,331.683,392.846)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Output</text>
+    </g>
+    <g transform="matrix(1.15976,0,0,1.15976,-128.256,45.3639)">
+        <path d="M167.177,218.762L353.312,218.762" style="fill:rgb(228,87,84);stroke-width:3.45px;stroke:rgb(228,87,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,293.709,295.734)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">TF<tspan x="24.432px " y="0px ">C</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2.0957,45.9203)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,387.186,25.407)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,395.598,95.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">C<tspan x="16.366px 31.417px " y="0px 0px ">os</tspan>t</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,721.683,392.846)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Output</text>
+    </g>
+    <g transform="matrix(1.13616,0.232747,-0.232747,1.13616,344.902,-32.0807)">
+        <path d="M157.556,208.923C233.675,274.191 347.103,239.36 347.103,239.36" style="fill:none;stroke-width:3.45px;stroke:rgb(228,87,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,693.709,311.734)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">AF<tspan x="27.984px " y="0px ">C</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,392.096,45.9203)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+</svg>

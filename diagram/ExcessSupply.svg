@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.899023,0,0,1,42.5982,35.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:27.976px;fill:rgb(96,96,96);">Price</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,363.683,331.846)">
+        <g transform="matrix(1,0,0,1,8.89855,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">Quan</text>
+        </g>
+        <g transform="matrix(1,0,0,1,63.7542,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">tity</text>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,312.314,119.274)">
+        <g transform="matrix(1,0,0,1,22.0215,124.553)">
+            <text x="0px" y="0px" style="font-family:'Seravek', sans-serif;font-size:24px;fill:rgb(228,85,84);">Demand</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-267.67,49.366)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">Pe</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-267.67,-9.634)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">P</text>
+            <g transform="matrix(1,0,0,1,10.656,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,185,0);">A</text>
+            </g>
+        </g>
+        <g transform="matrix(12.4135,0,0,10.1947,-3204.58,-2319.67)">
+            <path d="M251.781,231.819L251.87,244.925" style="fill:none;stroke:rgb(96,96,96);stroke-width:0.19px;stroke-dasharray:0.19,0.19;"/>
+        </g>
+        <g transform="matrix(5.35629,0,0,14.5277,-1490.41,-3379.88)">
+            <path d="M251.781,231.819L251.87,244.925" style="fill:none;stroke:rgb(96,96,96);stroke-width:0.19px;stroke-dasharray:0.19,0.19;"/>
+        </g>
+        <g transform="matrix(5.35629,0,0,14.5277,-1366.94,-3379.88)">
+            <path d="M251.781,231.819L251.87,244.925" style="fill:none;stroke:rgb(96,96,96);stroke-width:0.19px;stroke-dasharray:0.19,0.19;"/>
+        </g>
+        <g transform="matrix(-1.33002e-15,-7.43539,8.27056,-1.19572e-15,-2125.71,1916.04)">
+            <path d="M251.87,229.5C251.87,234.642 251.821,242.016 251.821,247.158" style="fill:none;stroke:rgb(96,96,96);stroke-width:0.27px;stroke-dasharray:0.27,0.27;"/>
+        </g>
+        <g transform="matrix(-2.00218e-16,-1.11931,11.8683,-1.71587e-15,-2951.39,269.208)">
+            <path d="M251.87,229.5C251.87,234.642 251.821,242.016 251.821,247.158" style="fill:none;stroke:rgb(96,96,96);stroke-width:0.27px;stroke-dasharray:0.27,0.27;"/>
+        </g>
+        <g transform="matrix(-1.95616e-16,-1.09359,1.21643,-1.75863e-16,-366.674,237.273)">
+            <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke:rgb(228,85,84);stroke-width:3.66px;"/>
+        </g>
+        <g transform="matrix(-1.2168,-0.0145194,0.0161503,-1.09394,131.464,306.37)">
+            <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke:rgb(228,85,84);stroke-width:3.66px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-90.7993,212.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">Qe</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-155.314,212.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">QD</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-30.7341,213.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(96,96,96);">QS</text>
+        </g>
+        <g transform="matrix(1,0,0,1,21.6446,-36.3995)">
+            <text x="0px" y="0px" style="font-family:'Seravek', sans-serif;font-size:24px;fill:rgb(228,85,84);">Suppl</text>
+            <g transform="matrix(1,0,0,1,57.653,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek', sans-serif;font-size:24px;fill:rgb(228,85,84);">y</text>
+            </g>
+        </g>
+        <g transform="matrix(1.59438,0,0,0.820972,-466.406,-99.8937)">
+            <path d="M205.869,76.921L205.869,80.23L202.953,75.139L205.869,70.048L205.869,73.357L281.23,73.357L281.23,70.048L284.146,75.139L281.23,80.23L281.23,76.921L205.869,76.921Z" style="fill:rgb(1,1,1);stroke:rgb(1,1,1);stroke-width:0.86px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-146.088,-53.7147)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(1,1,1);">Ex</text>
+            <g transform="matrix(1,0,0,1,23.448,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light', 'Seravek', sans-serif;font-weight:300;font-size:24px;fill:rgb(1,1,1);">cess Supply</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1.00288,0,0,1,39.0487,-40.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke:rgb(84,103,123);stroke-width:6.01px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1.0007,44.0957,-20.1274)">
+        <path d="M62.078,68.166L62.078,320.826" style="stroke:rgb(84,103,123);stroke-width:6.05px;"/>
+    </g>
+</svg>

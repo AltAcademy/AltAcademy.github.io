@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 430 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.899023,0,0,1,277.937,119.34)">
+        <g transform="matrix(1,0,0,1,-23.186,145.662)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">M</text>
+            <g transform="matrix(1,0,0,1,20.304,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(84,103,123);">P</text>
+            </g>
+            <g transform="matrix(1,0,0,1,32.496,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">B</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,26.2688,107.43)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">M</text>
+            <g transform="matrix(1,0,0,1,20.304,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(84,103,123);">S</text>
+            </g>
+            <g transform="matrix(1,0,0,1,32.328,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">B</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-17.5606,-13.4737)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">MSC = MPC</text>
+        </g>
+        <g transform="matrix(7.93407,0,0,7.13291,-2112.46,-1570.15)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.28px;stroke-dasharray:0.28,0.28;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(11.0023,0,0,9.89128,-2841.07,-2244.33)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.2px;stroke-dasharray:0.2,0.2;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(-1.0765e-15,-6.01815,6.6941,-9.67795e-16,-1752.83,1583.45)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.33px;stroke-dasharray:0.33,0.33;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(-1.5548e-15,-8.69209,9.66837,-1.3978e-15,-2436.52,2216.93)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.23px;stroke-dasharray:0.23,0.23;stroke:rgb(96,96,96);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,21.0957,-20.0797)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,16.1857,-40.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(-1.60812e-16,-1,1,-1.60812e-16,-60.3744,366.282)">
+        <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(-1.60812e-16,-1,1,-1.60812e-16,-20.3744,326.282)">
+        <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,9.59816,18.567)">
+        <g>
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:23px;fill:rgb(96,96,96);">C</text>
+            <g transform="matrix(1,0,0,1,13.455,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:23px;fill:rgb(96,96,96);">ost &amp;</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,23)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:23px;fill:rgb(96,96,96);">Benefit</text>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,328.683,331.846)">
+        <g transform="matrix(1,0,0,1,16.6848,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Quan</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-179.083,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-305.508,-136.591)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">P</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-305.508,-177.591)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">P1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-139.04,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,72.6528,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">tity</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-9.95838,-42.6784)">
+        <path d="M134.855,279.845L266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+</svg>

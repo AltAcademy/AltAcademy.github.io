@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,3.09569,69.9203)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,-1.8143,49.407)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,14.5982,125.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">Price</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,176.47,71.3915)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">PEPSI</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,541.47,71.3915)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">C<tspan x="16.506px 36.928px " y="0px 0px ">OC</tspan>A C<tspan x="94.531px 114.953px 128.186px " y="0px 0px 0px ">OLA</tspan></text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,513.683,381.846)">
+        <g transform="matrix(1,0,0,1,-209.116,40)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Quan</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-153.148,40)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">tity</text>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,463.814,298.238)">
+        <g transform="matrix(1.11232,0,0,1,-81.9982,-228.318)">
+            <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+        </g>
+        <g transform="matrix(1.11505,0,0,1,-87.4597,-248.831)">
+            <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-69.2038,-172.671)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">Price</text>
+        </g>
+        <g transform="matrix(1,0,0,1,276.822,123.608)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Quan</text>
+        </g>
+        <g transform="matrix(1,0,0,1,332.79,123.608)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">tity</text>
+        </g>
+    </g>
+    <g transform="matrix(-1.60812e-16,-1,1,-1.60812e-16,334.194,443.685)">
+        <path d="M103.708,310.992L266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,655.814,338.238)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">D</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,655.814,338.238)">
+        <path d="M19.608,-6.528L19.608,-14.112L17.184,-13.32L16.752,-14.784L20.184,-15.984L21.48,-15.984L21.48,-6.528L19.608,-6.528Z" style="fill:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(-1.60812e-16,-1,1,-1.60812e-16,371.09,397.594)">
+        <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,687.639,293.318)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">D</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,687.639,293.318)">
+        <path d="M17.712,-15.528C18.128,-15.752 18.564,-15.924 19.02,-16.044C19.476,-16.164 19.968,-16.224 20.496,-16.224C21.552,-16.224 22.376,-15.956 22.968,-15.42C23.56,-14.884 23.856,-14.184 23.856,-13.32C23.856,-12.872 23.78,-12.456 23.628,-12.072C23.476,-11.688 23.276,-11.328 23.028,-10.992C22.78,-10.656 22.488,-10.336 22.152,-10.032C21.816,-9.728 21.464,-9.432 21.096,-9.144C20.824,-8.92 20.568,-8.72 20.328,-8.544C20.088,-8.368 19.856,-8.192 19.632,-8.016L24.168,-8.016L24.168,-6.528L17.424,-6.528L17.064,-7.728C17.576,-8.144 18.06,-8.54 18.516,-8.916C18.972,-9.292 19.44,-9.688 19.92,-10.104C20.464,-10.568 20.944,-11.044 21.36,-11.532C21.776,-12.02 21.984,-12.576 21.984,-13.2C21.984,-13.696 21.836,-14.076 21.54,-14.34C21.244,-14.604 20.816,-14.736 20.256,-14.736C19.872,-14.736 19.512,-14.68 19.176,-14.568C18.84,-14.456 18.496,-14.312 18.144,-14.136L17.712,-15.528Z" style="fill:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-24.5244,23.7554)">
+        <path d="M134.855,279.845L266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,22.9577,70.0711)">
+        <path d="M134.855,279.845L266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,295.014,220.095)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">S</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,295.014,220.095)">
+        <path d="M15.24,-6.528L15.24,-14.112L12.816,-13.32L12.384,-14.784L15.816,-15.984L17.112,-15.984L17.112,-6.528L15.24,-6.528Z" style="fill:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,255.594,174.859)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">S</text>
+        <path d="M13.344,-15.528C13.76,-15.752 14.196,-15.924 14.652,-16.044C15.108,-16.164 15.6,-16.224 16.128,-16.224C17.184,-16.224 18.008,-15.956 18.6,-15.42C19.192,-14.884 19.488,-14.184 19.488,-13.32C19.488,-12.872 19.412,-12.456 19.26,-12.072C19.108,-11.688 18.908,-11.328 18.66,-10.992C18.412,-10.656 18.12,-10.336 17.784,-10.032C17.448,-9.728 17.096,-9.432 16.728,-9.144C16.456,-8.92 16.2,-8.72 15.96,-8.544C15.72,-8.368 15.488,-8.192 15.264,-8.016L19.8,-8.016L19.8,-6.528L13.056,-6.528L12.696,-7.728C13.208,-8.144 13.692,-8.54 14.148,-8.916C14.604,-9.292 15.072,-9.688 15.552,-10.104C16.096,-10.568 16.576,-11.044 16.992,-11.532C17.408,-12.02 17.616,-12.576 17.616,-13.2C17.616,-13.696 17.468,-14.076 17.172,-14.34C16.876,-14.604 16.448,-14.736 15.888,-14.736C15.504,-14.736 15.144,-14.68 14.808,-14.568C14.472,-14.456 14.128,-14.312 13.776,-14.136L13.344,-15.528Z" style="fill:rgb(228,85,84);"/>
+    </g>
+</svg>

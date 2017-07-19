@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(-1.60812e-16,-1,1,-1.60812e-16,-74.3199,398.354)">
+        <path d="M99.672,356.236C99.672,356.236 130.334,353.281 162.037,342.148C190.202,332.257 218.87,309.287 232.443,293.709C241.11,283.762 261.008,260.206 269.069,230.058C279.058,192.699 277.371,147.985 277.371,147.985" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,10.0957,-20.0797)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,5.1857,-40.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,313.683,331.846)">
+        <g transform="matrix(1,0,0,1,20.0217,-4)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Good B</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-348.031,-299.721)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Good A</text>
+        </g>
+    </g>
+    <g transform="matrix(0.578067,0,0,0.578067,107.985,75.6609)">
+        <circle cx="218.311" cy="84.044" r="7.408" style="fill:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,242.419,116.796)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">Bey<tspan x="36.192px " y="0px ">o</tspan>nd Means</text>
+    </g>
+</svg>

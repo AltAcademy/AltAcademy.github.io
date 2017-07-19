@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 450 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(5.25281,0,0,5.25281,-1042.3,-987.941)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.31px;stroke-dasharray:0.31,0.31;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-1.71912e-15,-10.6902,10.6902,-1.71912e-15,-2336.6,2910.74)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.15px;stroke-dasharray:0.15,0.15;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(11.8876,0,0,11.8876,-2851.92,-2613.84)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.14px;stroke-dasharray:0.14,0.14;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-3.50293e-16,-2.17828,1.71225,-2.7535e-16,-276.325,660.162)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.82px;stroke-dasharray:0.82,0.82;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,55.0957,-19.0797)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,50.1857,-39.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,338.683,331.846)">
+        <g transform="matrix(1,0,0,1,46.7174,-4)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Output</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-78.4774,-7.00883)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">MES</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-229.149,-6.43058)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-295.001,-213.589)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+            <g transform="matrix(1,0,0,1,15.216,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">C1</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-298.075,-105.276)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+            <g transform="matrix(1,0,0,1,15.216,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">C2</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-376.552,-296.971)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+            <g transform="matrix(1,0,0,1,15.096,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">ver</text>
+                <g transform="matrix(1,0,0,1,30.6,0)">
+                    <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">age C</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,100.2,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">ost</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1.49121,0,0,1.49121,-116.763,-126.785)">
+        <clipPath id="_clip1">
+            <rect x="167.616" y="157.413" width="96.407" height="78.656"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <circle cx="259.697" cy="143.038" r="87.527" style="fill:none;stroke-width:2.43px;stroke-linecap:round;stroke:rgb(228,85,84);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1.08683,0.905491)">
+        <path d="M270.544,216.123L310.811,216.123" style="fill:none;stroke-width:3.62px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,323.799,211.89)">
+        <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,87,84);">LR<tspan x="25.536px 40.992px " y="0px 0px ">AC</tspan></text>
+    </g>
+</svg>

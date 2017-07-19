@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 450 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.899023,0,0,1,4.59816,35.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">Price Level</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,78.5982,235.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">PL1</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,78.5982,183.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">PL2</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,388.683,332.846)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">RNO</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,271.683,332.846)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Y1</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,224.683,332.846)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Y2</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,288.814,248.238)">
+        <g transform="matrix(-1.37755e-15,-7.70114,8.56616,-1.23845e-15,-2155.23,1868.16)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.26px;stroke-dasharray:0.26,0.26;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(-1.87069e-15,-10.458,11.6327,-1.68179e-15,-2857.48,2608.2)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.19px;stroke-dasharray:0.19,0.19;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(9.55868,0,0,8.59347,-2467.06,-2046)">
+            <path d="M251.87,229.5L251.87,244.925" style="fill:none;stroke-width:0.23px;stroke-dasharray:0.23,0.23;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(6.10377,0,0,5.48743,-1546.42,-1286.5)">
+            <path d="M251.87,229.5L251.87,244.925" style="fill:none;stroke-width:0.36px;stroke-dasharray:0.36,0.36;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(1.11232,0,0,1,-236.38,-291.217)">
+            <path d="M103.708,310.992C193.301,290.579 253.714,242.441 266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,72.2862,-129.54)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">SR</text>
+            <g transform="matrix(1,0,0,1,26.232,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">AS</text>
+                <path d="M31.464,-6.528L31.464,-14.112L29.04,-13.32L28.608,-14.784L32.04,-15.984L33.336,-15.984L33.336,-6.528L31.464,-6.528Z" style="fill:rgb(228,85,84);"/>
+            </g>
+        </g>
+        <g transform="matrix(1.11232,0,0,1,-280.873,-341.217)">
+            <path d="M103.708,310.992C193.301,290.579 253.714,242.441 266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,27.7935,-179.54)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">SR</text>
+            <g transform="matrix(1,0,0,1,26.232,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">AS</text>
+                <path d="M29.568,-15.528C29.984,-15.752 30.42,-15.924 30.876,-16.044C31.332,-16.164 31.824,-16.224 32.352,-16.224C33.408,-16.224 34.232,-15.956 34.824,-15.42C35.416,-14.884 35.712,-14.184 35.712,-13.32C35.712,-12.872 35.636,-12.456 35.484,-12.072C35.332,-11.688 35.132,-11.328 34.884,-10.992C34.636,-10.656 34.344,-10.336 34.008,-10.032C33.672,-9.728 33.32,-9.432 32.952,-9.144C32.68,-8.92 32.424,-8.72 32.184,-8.544C31.944,-8.368 31.712,-8.192 31.488,-8.016L36.024,-8.016L36.024,-6.528L29.28,-6.528L28.92,-7.728C29.432,-8.144 29.916,-8.54 30.372,-8.916C30.828,-9.292 31.296,-9.688 31.776,-10.104C32.32,-10.568 32.8,-11.044 33.216,-11.532C33.632,-12.02 33.84,-12.576 33.84,-13.2C33.84,-13.696 33.692,-14.076 33.396,-14.34C33.1,-14.604 32.672,-14.736 32.112,-14.736C31.728,-14.736 31.368,-14.68 31.032,-14.568C30.696,-14.456 30.352,-14.312 30,-14.136L29.568,-15.528Z" style="fill:rgb(228,85,84);"/>
+            </g>
+        </g>
+        <g transform="matrix(-1.78874e-16,-1,1.11232,-1.60812e-16,-297.657,129.422)">
+            <path d="M103.708,310.992L266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,59.3356,27.3319)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">AD</text>
+        </g>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,53.1857,-34.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,58.0957,-14.0797)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+</svg>

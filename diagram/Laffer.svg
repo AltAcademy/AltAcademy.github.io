@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 550 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.899023,0,0,1,382.563,353.979)">
+        <g transform="matrix(1,0,0,1,50.0543,2)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">T<tspan x="10.752px 22.704px 34.272px " y="0px 0px 0px ">ax </tspan>Rate %</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-28.9203,2)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">100%</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-172.409,2)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Optimum</text>
+            <text x="0px" y="24px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">T<tspan x="10.752px 22.704px 34.272px " y="24px 24px 24px ">ax </tspan>Rate</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-284.754,2)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">0%</text>
+        </g>
+        <g transform="matrix(12.8076,0,0,11.5143,-3353.61,-2853.49)">
+            <path d="M251.87,229.5L251.87,244.925" style="fill:none;stroke-width:0.17px;stroke-dasharray:0.17,0.17;stroke:rgb(96,96,96);"/>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,337.314,144.274)">
+        <g transform="matrix(-1.51593e-15,-8.47476,9.42663,-1.36286e-15,-2385.42,2134.45)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.24px;stroke-dasharray:0.24,0.24;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,13.2349,45.1831)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(228,85,84);">Laﬀ<tspan x="32.36px " y="0px ">e</tspan>r Curv<tspan x="93.14px " y="0px ">e</tspan></text>
+        </g>
+        <g transform="matrix(0.815338,0.733007,-0.815337,0.733006,-66.8565,-162.38)">
+            <path d="M137.851,322.672C137.851,322.672 71.753,149.532 104.078,118.033C138.635,84.359 300.403,162.772 300.403,162.772" style="fill:none;stroke-width:3.86px;stroke:rgb(228,85,84);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1.0007,77.0957,4.8726)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6.05px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00288,0,0,1,72.0487,-15.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6.01px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,0.784978,58.4837)">
+        <g>
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">T<tspan x="12.533px 26.465px 39.95px " y="0px 0px 0px ">ax </tspan>Revenue</text>
+        </g>
+    </g>
+</svg>

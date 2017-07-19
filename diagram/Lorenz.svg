@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.899023,0,0,1,357.563,353.979)">
+        <g transform="matrix(1,0,0,1,18.9094,-10)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Cumulative</text>
+            <text x="0px" y="24px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Population %</text>
+        </g>
+        <g transform="matrix(9.22044,0,0,8.28942,-2463.95,-2070.81)">
+            <path d="M251.87,229.5L251.87,244.925" style="fill:none;stroke-width:0.24px;stroke-dasharray:0.24,0.24;stroke:rgb(96,96,96);"/>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,312.314,144.274)">
+        <g transform="matrix(-1.47532e-15,-8.24773,9.17411,-1.32635e-15,-2338.74,2200.26)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.24px;stroke-dasharray:0.24,0.24;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(-1.47532e-15,-8.24773,9.17411,-1.32635e-15,-2338.74,2120.26)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.24px;stroke-dasharray:0.24,0.24;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.57118,-44.9825)">
+            <g>
+                <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(228,85,84);">45</text>
+                <text x="20.9px" y="-6.66px" style="font-family:'Seravek';font-size:11.66px;fill:rgb(228,85,84);">o</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-19.4202,91.2116)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(228,85,84);">Lor<tspan x="27.42px " y="0px ">e</tspan>nz Curv<tspan x="101.1px " y="0px ">e</tspan></text>
+        </g>
+        <g transform="matrix(1.56853,-3.13113e-16,3.48282e-16,1.41014,-394.214,-271.433)">
+            <path d="M103.708,310.992C103.708,310.992 178.799,297.491 210.903,265.386C243.007,233.282 247.876,167.464 247.876,167.464" style="fill:none;stroke-width:2.84px;stroke:rgb(107,164,96);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-105.261,201.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">60</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-59.6555,136.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">B</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-126.395,105.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-275.445,49.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">60</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-275.445,128.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">20</text>
+        </g>
+        <g transform="matrix(1.56853,-3.13113e-16,3.48282e-16,1.41014,-392.479,-272.524)">
+            <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke-width:2.84px;stroke:rgb(228,85,84);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1.0007,41.0957,-5.1274)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6.05px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00288,0,0,1,36.0487,-25.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6.01px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,-0.321541,49.567)">
+        <g>
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">Income %</text>
+        </g>
+    </g>
+</svg>

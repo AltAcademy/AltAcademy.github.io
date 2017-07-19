@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 450 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(7.24861,0,0,7.24861,-1538.62,-1477.27)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.28px;stroke-dasharray:0.28,0.28;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-1.78222e-15,-11.0826,11.0826,-1.78222e-15,-2427.85,2978.58)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.18px;stroke-dasharray:0.18,0.18;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-1.78222e-15,-11.0826,11.0826,-1.78222e-15,-2427.85,3029.58)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.18px;stroke-dasharray:0.18,0.18;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,55.0957,-19.0797)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,50.1857,-39.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,338.683,331.846)">
+        <g transform="matrix(1,0,0,1,46.7174,-4)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Output</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-68.9751,-6.43058)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-295.001,-138.589)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+            <g transform="matrix(1,0,0,1,15.216,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">C1</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-296.963,-88.276)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+            <g transform="matrix(1,0,0,1,15.216,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">C2</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-376.552,-296.971)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">A</text>
+            <g transform="matrix(1,0,0,1,15.096,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">ver</text>
+                <g transform="matrix(1,0,0,1,30.6,0)">
+                    <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">age C</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,100.2,0)">
+                <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">ost</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,40.0868,-30.0945)">
+        <path d="M270.544,216.123L310.811,216.123" style="fill:none;stroke-width:3.62px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1.49121,0,0,1.49121,-99.763,-157.785)">
+        <clipPath id="_clip1">
+            <rect x="168.117" y="157.901" width="94.153" height="76.681"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <circle cx="259.697" cy="143.038" r="87.527" style="fill:none;stroke-width:2.43px;stroke-linecap:round;stroke:rgb(228,85,84);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,13.0868,-30.0945)">
+        <path d="M270.544,216.123L310.811,216.123" style="fill:none;stroke-width:3.62px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,18.0868,21.9055)">
+        <path d="M270.544,216.123L310.811,216.123" style="fill:none;stroke-width:3.62px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1.49121,0,0,1.49121,-121.763,-105.785)">
+        <clipPath id="_clip2">
+            <rect x="168.117" y="157.901" width="94.153" height="76.681"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)">
+            <circle cx="259.697" cy="143.038" r="87.527" style="fill:none;stroke-width:2.43px;stroke-linecap:round;stroke:rgb(228,85,84);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-8.91317,21.9055)">
+        <path d="M270.544,216.123L310.811,216.123" style="fill:none;stroke-width:3.62px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,323.799,211.89)">
+        <g transform="matrix(1,0,0,1,45.9729,-29.3255)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,87,84);">LR</text>
+        </g>
+        <g transform="matrix(1,0,0,1,71.5089,-29.3255)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,87,84);">A<tspan x="15.456px " y="0px ">C</tspan></text>
+            <path d="M33.312,-6.528L33.312,-14.112L30.888,-13.32L30.456,-14.784L33.888,-15.984L35.184,-15.984L35.184,-6.528L33.312,-6.528Z" style="fill:rgb(228,87,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,25.9512,23.6745)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,87,84);">LR</text>
+        </g>
+        <g transform="matrix(1,0,0,1,51.4872,23.6745)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,87,84);">A<tspan x="15.456px " y="0px ">C</tspan></text>
+            <path d="M31.416,-15.528C31.832,-15.752 32.268,-15.924 32.724,-16.044C33.18,-16.164 33.672,-16.224 34.2,-16.224C35.256,-16.224 36.08,-15.956 36.672,-15.42C37.264,-14.884 37.56,-14.184 37.56,-13.32C37.56,-12.872 37.484,-12.456 37.332,-12.072C37.18,-11.688 36.98,-11.328 36.732,-10.992C36.484,-10.656 36.192,-10.336 35.856,-10.032C35.52,-9.728 35.168,-9.432 34.8,-9.144C34.528,-8.92 34.272,-8.72 34.032,-8.544C33.792,-8.368 33.56,-8.192 33.336,-8.016L37.872,-8.016L37.872,-6.528L31.128,-6.528L30.768,-7.728C31.28,-8.144 31.764,-8.54 32.22,-8.916C32.676,-9.292 33.144,-9.688 33.624,-10.104C34.168,-10.568 34.648,-11.044 35.064,-11.532C35.48,-12.02 35.688,-12.576 35.688,-13.2C35.688,-13.696 35.54,-14.076 35.244,-14.34C34.948,-14.604 34.52,-14.736 33.96,-14.736C33.576,-14.736 33.216,-14.68 32.88,-14.568C32.544,-14.456 32.2,-14.312 31.848,-14.136L31.416,-15.528Z" style="fill:rgb(228,87,84);"/>
+        </g>
+    </g>
+</svg>

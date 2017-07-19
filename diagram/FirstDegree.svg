@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-6.90431,-20.0797)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,0.59816,35.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">Price</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,22.5982,125.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">P1</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,22.5982,184.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">P2</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,22.5982,242.567)">
+        <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">P3</text>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,313.683,331.846)">
+        <g transform="matrix(1,0,0,1,3.33696,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Quan</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-225.801,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-161.286,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-94.5471,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Q3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,59.305,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">tity</text>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,263.814,248.238)">
+        <g transform="matrix(1,0,0,1,2.22464,0)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:24px;fill:rgb(228,85,84);">D</text>
+        </g>
+        <g transform="matrix(1,0,0,1,2.22464,0)">
+            <path d="M19.608,-6.528L19.608,-14.112L17.184,-13.32L16.752,-14.784L20.184,-15.984L21.48,-15.984L21.48,-6.528L19.608,-6.528Z" style="fill:rgb(228,85,84);"/>
+        </g>
+    </g>
+    <g transform="matrix(9.68931,0,0,9.68931,-2318.28,-2074.91)">
+        <path d="M251.87,226.148C251.87,231.29 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.21px;stroke-dasharray:0.21,0.21;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(6.56096,0,0,6.56096,-1471.35,-1307.7)">
+        <path d="M251.87,226.148C251.87,231.29 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.3px;stroke-dasharray:0.3,0.3;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(3.32743,0,0,3.32743,-597.914,-516.726)">
+        <path d="M251.87,226.148C251.87,231.29 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.6px;stroke-dasharray:0.6,0.6;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-6.79636e-16,-4.22625,4.22625,-6.79636e-16,-911.656,1181.98)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.47px;stroke-dasharray:0.47,0.47;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-1.33885e-15,-8.32549,8.04545,-1.29381e-15,-1788.16,2275.46)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.24px;stroke-dasharray:0.24,0.24;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-1.91135e-15,-11.8855,11.8855,-1.91135e-15,-2669.46,3228.13)">
+        <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.17px;stroke-dasharray:0.17,0.17;stroke:rgb(96,96,96);"/>
+    </g>
+    <g transform="matrix(-1.60812e-16,-1,1,-1.60812e-16,-55.8057,353.685)">
+        <path d="M103.708,310.992L266.064,148.636" style="fill:none;stroke-width:4px;stroke:rgb(228,85,84);"/>
+    </g>
+    <g transform="matrix(1.00246,0,0,1,-11.8143,-40.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6px;stroke:rgb(84,103,123);"/>
+    </g>
+</svg>

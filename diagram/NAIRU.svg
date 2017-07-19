@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 650 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.899023,0,0,1,432.563,328.979)">
+        <g transform="matrix(1,0,0,1,46.7174,-9)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">Unemployment %</text>
+        </g>
+        <g transform="matrix(4.2701,0,0,7.99142,-1260.47,-1985.97)">
+            <path d="M251.87,229.5L251.87,244.925" style="fill:none;stroke-width:0.32px;stroke-dasharray:0.32,0.32;stroke:rgb(96,96,96);"/>
+        </g>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,387.314,119.274)">
+        <g transform="matrix(-2.11983e-15,-11.8508,13.7892,-1.99358e-15,-3424.16,3110.4)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.16px;stroke-dasharray:0.16,0.16;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(-2.11983e-15,-11.8508,8.34745,-1.20684e-15,-2175.27,3040.4)">
+            <path d="M251.87,229.5C251.87,234.642 251.87,239.783 251.87,244.925" style="fill:none;stroke-width:0.2px;stroke-dasharray:0.2,0.2;stroke:rgb(96,96,96);"/>
+        </g>
+        <g transform="matrix(-2.60243e-16,-1.4549,1.53505,-2.21927e-16,-466.187,344.36)">
+            <path d="M103.708,310.992C103.708,310.992 111.89,253.647 162.926,202.611C205.151,160.386 250.763,163.937 250.763,163.937" style="fill:none;stroke-width:2.82px;stroke:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(-2.60243e-16,-1.4549,1.53505,-2.21927e-16,-428.369,310.36)">
+            <path d="M103.708,310.992C103.708,310.992 111.89,253.647 162.926,202.611C205.151,160.386 250.763,163.937 250.763,163.937" style="fill:none;stroke-width:2.82px;stroke:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-301.028,129.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">2%</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-150.865,209.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">3%</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-301.028,60.572)">
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:24px;fill:rgb(96,96,96);">6%</text>
+        </g>
+        <g transform="matrix(0.830858,-0.74696,0.830859,0.746961,-390.834,22.5969)">
+            <path d="M103.708,310.992L250.763,163.937" style="fill:none;stroke-width:3.79px;stroke:rgb(129,70,177);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-26.8297,-54.6966)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(129,70,177);">Long<tspan x="41.6px " y="0px ">-</tspan>run</text>
+            <text x="0px" y="20px" style="font-family:'Seravek';font-size:20px;fill:rgb(129,70,177);">Phillips C<tspan x="77.52px " y="20px ">u</tspan>rve</text>
+        </g>
+        <g transform="matrix(1,0,0,1,59.9312,152.303)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(228,85,84);">SRPC</text>
+            <path d="M45.16,-12.94C45.507,-13.127 45.87,-13.27 46.25,-13.37C46.63,-13.47 47.04,-13.52 47.48,-13.52C48.36,-13.52 49.047,-13.297 49.54,-12.85C50.033,-12.403 50.28,-11.82 50.28,-11.1C50.28,-10.727 50.217,-10.38 50.09,-10.06C49.963,-9.74 49.797,-9.44 49.59,-9.16C49.383,-8.88 49.14,-8.613 48.86,-8.36C48.58,-8.107 48.287,-7.86 47.98,-7.62C47.753,-7.433 47.54,-7.267 47.34,-7.12C47.14,-6.973 46.947,-6.827 46.76,-6.68L50.54,-6.68L50.54,-5.44L44.92,-5.44L44.62,-6.44C45.047,-6.787 45.45,-7.117 45.83,-7.43C46.21,-7.743 46.6,-8.073 47,-8.42C47.453,-8.807 47.853,-9.203 48.2,-9.61C48.547,-10.017 48.72,-10.48 48.72,-11C48.72,-11.413 48.597,-11.73 48.35,-11.95C48.103,-12.17 47.747,-12.28 47.28,-12.28C46.96,-12.28 46.66,-12.233 46.38,-12.14C46.1,-12.047 45.813,-11.927 45.52,-11.78L45.16,-12.94Z" style="fill:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,18.7754,199.303)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(228,85,84);">SRPC</text>
+            <path d="M46.74,-5.44L46.74,-11.76L44.72,-11.1L44.36,-12.32L47.22,-13.32L48.3,-13.32L48.3,-5.44L46.74,-5.44Z" style="fill:rgb(228,85,84);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-71.3224,207.303)">
+            <text x="0px" y="0px" style="font-family:'Seravek';font-size:20px;fill:rgb(129,70,177);">NAIR<tspan x="44.52px " y="0px ">U</tspan></text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1.0007,93.0957,-20.1274)">
+        <path d="M62.078,68.166L62.078,320.826" style="fill:black;stroke-width:6.05px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(1.00288,0,0,1,88.0487,-40.593)">
+        <path d="M63.922,338.529L326.513,338.529" style="fill:none;stroke-width:6.01px;stroke:rgb(84,103,123);"/>
+    </g>
+    <g transform="matrix(0.899023,0,0,1,26.1834,38.567)">
+        <g>
+            <text x="0px" y="0px" style="font-family:'Seravek-Light';font-size:27.976px;fill:rgb(96,96,96);">Inflation %</text>
+        </g>
+    </g>
+</svg>

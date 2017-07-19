@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1010 1010" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="globe-network">
+        <path id="label_3_" d="M505.006,0C783.904,0 1010,226.102 1010,504.994C1010,783.898 783.904,1009.99 505.006,1009.99C226.107,1009.99 0,783.898 0,504.994C0,226.102 226.107,0 505.006,0Z" style="fill:rgb(57,65,69);fill-rule:nonzero;"/>
+        <g id="label_3_1" transform="matrix(0.902294,0,0,0.902294,51.2149,49.3731)">
+            <path d="M505.006,0C783.904,0 1010,226.102 1010,504.994C1010,783.898 783.904,1009.99 505.006,1009.99C226.107,1009.99 0,783.898 0,504.994C0,226.102 226.107,0 505.006,0Z" style="fill:rgb(209,190,79);fill-rule:nonzero;stroke-width:1.11px;stroke:rgb(241,220,79);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,113.371,705.943)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:544.184px;fill:rgb(57,65,69);">&lt;/&gt;</text>
+        </g>
+    </g>
+</svg>
